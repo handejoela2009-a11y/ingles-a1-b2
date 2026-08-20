@@ -1,0 +1,18 @@
+{
+  "name": "English Path — A1 a B2",
+  "short_name": "English Path",
+  "description": "Plataforma de aprendizaje de ingles A1 a B2 con repeticion espaciada, evaluacion por competencia y contenido interactivo. Funciona sin conexion a internet.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#14312B",
+  "theme_color": "#14312B",
+  "lang": "es",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
